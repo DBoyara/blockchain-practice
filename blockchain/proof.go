@@ -1,6 +1,5 @@
 package blockchain
 
-
 import (
 	"bytes"
 	"crypto/sha256"
